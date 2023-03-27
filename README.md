@@ -1,7 +1,7 @@
 # Welcome to Template
 
-![GitHub Org's stars](https://img.shields.io/github/stars/MyLinuxProfile?label=LinuxProfile&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/MyLinuxProfile/template?style=flat-square)
+![GitHub Org's stars](https://img.shields.io/github/stars/_____?label=LinuxProfile&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/_____/repository?style=flat-square)
 
 ---
 

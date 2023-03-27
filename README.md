@@ -5,8 +5,8 @@
 
 ---
 
-- **Documentation**: [Link](https://github.com/MyLinuxProfile)
-- **Source Code**: [Link](https://github.com/MyLinuxProfile)
+- **Documentation**: [Link](https://github.com/Company)
+- **Source Code**: [Link](https://github.com/Company)
 
 ---
 
@@ -17,8 +17,8 @@
 > **Português**: **Template** é um projeto para...
 
 ### Quick URLs
-- Last Version -> [Link](https://github.com/MyLinuxProfile)
-- Stable -> [Link](https://github.com/MyLinuxProfile)
+- Last Version -> [Link](https://github.com/Company)
+- Stable -> [Link](https://github.com/Company)
 
 
 ## Installation
